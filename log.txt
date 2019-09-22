@@ -1,0 +1,37 @@
+commit 40931f0415fc1e795afd4d6413bb49a91c7818dc (HEAD -> master, origin/master)
+Merge: 00f2ff9 38fb43e
+Author: Harish <veiv18@student.bth.se>
+Date:   Sun Sep 22 16:24:22 2019 +0200
+
+    Resolved merge conflict
+
+commit 00f2ff9255501120625d772a228cab0b37dee2fe
+Author: Harish <veiv18@student.bth.se>
+Date:   Sun Sep 22 16:09:18 2019 +0200
+
+    commiting b.txt in master branch after completing the task from branchone branch
+
+commit 38fb43ea4984c96229cfeb63d58921a585049a65 (origin/branchone, branchone)
+Author: Harish <veiv18@student.bth.se>
+Date:   Sun Sep 22 16:02:10 2019 +0200
+
+    first time commiting both in branchone branch
+
+commit 953048404410dfaf136ce0c9bc85c5b7d14bd573
+Author: Harish <veiv18@student.bth.se>
+Date:   Sun Sep 22 15:57:05 2019 +0200
+
+    second time commiting both
+
+commit 912369470fb1168faeecfcfee8f2f761c354092c
+Author: Harish <veiv18@student.bth.se>
+Date:   Sun Sep 22 15:39:10 2019 +0200
+
+    commited A.txt and B.txt
+
+commit 663e029c01292832ac7fc1ddbddeb23fa06dcdfb
+Author: ivaturi venkata harish kumar <43529736+harriish@users.noreply.github.com>
+Date:   Sun Sep 22 14:55:13 2019 +0200
+
+    Initial commit
+
